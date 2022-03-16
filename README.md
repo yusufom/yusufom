@@ -102,7 +102,7 @@
 <hr style="border:0.3px solid gray"> </hr>
 
 
-## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
+## 📊 My GitHub Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="25px">
   <br/>
 
 <table><td valign="top" width="50%">
