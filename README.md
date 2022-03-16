@@ -1,16 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78FECFF&size=29&multiline=true&width=700&lines=Welcome+To+Muktar's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/57444962/148106767-20b69d7d-18d0-4631-a312-d7f3273a91ce.gif" /></a>
-## Hi there I'm Prabhjot Kaur 
+<a href="#"><img width="28%" height="auto" align="right" src="Developer.gif" /></a>
+## Hi there My name is Yusuf Olamilekan Muktar 
 
-## I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
+## I'm a Tech Enthusiast!! </b>&nbsp;<img src="Point_Down.gif" width="14px">
 
-- 🌱 Front-End Developer
-- 🌱 Currently Learning DSA in Java & Advanced JavaScript
-- 🌱 Experienced in Graphic designing & Video Editing
-- 🌱 Wanna try my hands on Machine Learning
-- 🌱 Feel free to contact me for project collaboration
-- 😁 Fun Fact:- The first programmer was the daughter of a mad poet
+A Small Introduction of Myself, I am Shivam Garg pursuing Computer Science Degree from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on web development, Artifical Intelligence and Bionics but still, exploring Other domains.
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
