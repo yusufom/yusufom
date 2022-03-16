@@ -5,46 +5,50 @@
 
 ## I'm a Tech Enthusiast!! </b>&nbsp;<img src="Point_Down.gif" width="14px">
 
-A Small Introduction of Myself, I am Shivam Garg pursuing Computer Science Degree from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on web development, Artifical Intelligence and Bionics but still, exploring Other domains.
+Full Stack Developer
+Nigerian
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<a href="https://www.linkedin.com/in/prabhkaur301/" target="blank" >
+## Connect with me <img src="Handshake.gif" height="22px">
+
+<a href="https://www.linkedin.com/in/yusufolamilekanmuktar/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/kaurprabhtwt" target="blank" >
+<a href="https://twitter.com/horlamyleykn" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://hashnode.com/@prabhkaur" target="_blank">
+  <a href="https://hashnode.com/@OlamilekanYM" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/prabh_graphy/">
+  <a href="https://www.instagram.com/y_o_muktar/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pk746467@gmail.com">
+  <a href="mailto:yusufolamilekanmuktar@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dev.to/prabhkaur301">
+  <a href="https://wa.link/oyq7hp">
+    <img align="left"src="https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yomuktar">
     <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 
   <br>
   <br>
-  
-## Languages and Tools
+  <br>
 
+## Languages and Tools <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="25px">
+
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-ff69b4?style=for-the-badge&logo=react&logoColor=white)
+
 <br>
-<br>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
