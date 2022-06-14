@@ -3,7 +3,7 @@
 <a href="#"><img width="28%" height="auto" align="right" src="Developer.gif" /></a>
 ## Hi there My name is Yusuf Olamilekan Muktar 
 
-## I'm a Tech Enthusiast!! </b>&nbsp;<img src="Point_Down.gif" width="1px">
+## I'm a Tech Enthusiast!! </b>&nbsp;
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
