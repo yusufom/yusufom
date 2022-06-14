@@ -12,7 +12,7 @@
 - 💬 Ask me about anything related to Django
 
 
-## Connect with me  <img src="Handshake.gif" height="22px">
+## Connect with me  <img src="Handshake.gif" height="2px">
 <div align="center">
 <a href="https://github.com/yusufom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
