@@ -7,8 +7,6 @@
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
-- 🌱 I’m currently learning NodeJs and Advanced Javascript
-- 😄 Pronoun: He, Him
 - 💬 Ask me about anything related to Django
 
 
